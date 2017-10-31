@@ -11,7 +11,7 @@
   "authors": "https://github.com/henryhuypham",
   "source": {
     "git": "https://github.com/henryhuypham/dlibVzt.git",
-    "tag": "0.0.1"
+    "tag": "0.0.3"
   },
   "platforms": {
     "ios": "9.0"
