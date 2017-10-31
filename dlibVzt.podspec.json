@@ -1,6 +1,6 @@
 {
   "name": "dlibVzt",
-  "version": "19.6",
+  "version": "0.0.4",
   "summary": "A toolkit for making real world machine learning and data analysis applications in C++",
   "description": "Dlib is a modern C++ toolkit containing machine learning algorithms and tools\nfor creating complex software in C++ to solve real world problems.  See\nhttp://dlib.net for the main project documentation and API reference.",
   "homepage": "https://github.com/henryhuypham",
@@ -11,7 +11,7 @@
   "authors": "https://github.com/henryhuypham",
   "source": {
     "git": "https://github.com/henryhuypham/dlibVzt.git",
-    "tag": "0.0.3"
+    "tag": "0.0.4"
   },
   "platforms": {
     "ios": "9.0"
