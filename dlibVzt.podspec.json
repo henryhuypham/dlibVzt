@@ -17,14 +17,15 @@
     "ios": "9.0"
   },
   "source_files": [
-    "build/install/include/**/*.h",
-    "dlib.cpp"
+    "build/install/include/**/*.h"
   ],
   "public_header_files": "build/install/include/**/*.h",
   "preserve_paths": [
+    "build/libdlib.dylib",    
     "build/install"
   ],
   "header_mappings_dir": "build/install/include",
+  "vendored_libraries": "build/libdlib.dylib",  
   "requires_arc": false,
   "libraries": [
     "stdc++"
